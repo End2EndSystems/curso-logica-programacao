@@ -20,19 +20,23 @@ Vamos dividir o estudo dos fluxogramas em partes para facilitar o entendimento. 
 
 [Veja o README.md desta pasta para entender como marcar o começo e o fim de um fluxograma.](./01-inicio-e-fim/README.md)
 
-### 02-Ações-e-Processos
+### 02 - Ações e Processos
 
 [Veja o README.md desta pasta para aprender como representar ações e processos.](./02-acoes-e-processos/README.md)
 
-### 03-Decisões
+### 03 - Decisões
 
 [Veja o README.md desta pasta para entender como mostrar decisões e caminhos diferentes.](./03-decisoes/README.md)
 
-### 04-Conectores-e-Fluxo
+### 04 - Conectores e Fluxo
 
 [Veja o README.md desta pasta para aprender como conectar partes do fluxograma e mostrar o fluxo.](./04-conectores-e-fluxo/README.md)
 
-### 05-Exemplos-de-Fluxogramas
+### 05 - Laços de repetição
+
+[Veja o README.md desta pasta para aprender como utilizar laços de repetição e mostrar o fluxo.](./05-lacos-de-repeticao/README.md)
+
+### 05 - Exemplos de Fluxogramas
 
 [Confira a pasta de exemplos para visualizar fluxogramas completos e variados.](./05-exemplos-de-fluxogramas/README.md)
 

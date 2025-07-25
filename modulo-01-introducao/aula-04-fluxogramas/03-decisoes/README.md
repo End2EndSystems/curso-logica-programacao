@@ -34,8 +34,6 @@ if (estaChovendo) {
 
 ## Fluxograma de decisão
 
-Vamos visualizar isso com um fluxograma usando Mermaid:
-
 ```mermaid
 flowchart TD
         A[Está chovendo?] -->|Sim| B[Fique em casa e jogue videogame!]

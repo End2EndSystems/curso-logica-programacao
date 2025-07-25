@@ -25,14 +25,6 @@ flowchart TD
   B --> C([Fim])
 ```
 
-### Fluxograma renderizado
-
-```mermaid
-flowchart TD
-  A([Início]) --> B["Olá, mundo!"]
-  B --> C([Fim])
-```
-
 ## Por que usar Início e Fim?
 
 - Facilita o entendimento do programa.
