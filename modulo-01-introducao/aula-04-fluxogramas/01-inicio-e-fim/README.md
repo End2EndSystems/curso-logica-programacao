@@ -21,8 +21,16 @@ Vamos ver um fluxograma básico usando Mermaid para mostrar o início e o fim de
 
 ```mermaid
 flowchart TD
-    A([Início]) --> B[Mostrar mensagem: "Olá, mundo!"]
-    B --> C([Fim])
+  A([Início]) --> B["Olá, mundo!"]
+  B --> C([Fim])
+```
+
+### Fluxograma renderizado
+
+```mermaid
+flowchart TD
+  A([Início]) --> B["Olá, mundo!"]
+  B --> C([Fim])
 ```
 
 ## Por que usar Início e Fim?
