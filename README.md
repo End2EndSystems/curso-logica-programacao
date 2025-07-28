@@ -13,6 +13,23 @@ Este material foi criado especialmente para adolescentes que desejam dar os prim
 - Aplicar algoritmos para solucionar desafios reais.
 - Preparar para estudos mais avançados em tecnologia.
 
+## Roadmap do Curso
+
+Sua jornada de aprendizado:
+
+- 🟢 [Introdução à Lógica de Programação](./modulo-01-introducao/README.md)
+- 🔵 [Algoritmos e Fluxogramas](./modulo-02-algoritmos-fluxogramas/README.md)
+- 🟡 [Variáveis e Tipos de Dados](./modulo-03-variaveis-tipos/README.md)
+- 🟠 [Condicionais e Tabela Verdade](./modulo-04-condicionais-tabela-verdade/README.md)
+- 🟣 [Laços de Repetição](./modulo-05-lacos-repeticao/README.md)
+- 🟤 [Funções e Modularização](./modulo-06-funcoes-modularizacao/README.md)
+- 🟩 [Estruturas de Dados Básicas](./modulo-07-estruturas-dados/README.md)
+- 🟦 [Depuração e Testes](./modulo-08-depuracao-testes/README.md)
+- 🟥 [Resolução de Problemas Lógicos](./modulo-09-problemas-logicos/README.md)
+- ⚫ [Projetos Práticos e Desafios Finais](./modulo-10-projetos-desafios/README.md)
+
+Cada etapa traz novos conceitos e desafios para você evoluir como programador!
+
 ## Como usar este curso
 
 Recomendamos seguir os módulos na ordem apresentada.  
@@ -62,4 +79,4 @@ Assim, você terá um histórico do seu progresso e poderá compartilhar seu apr
    Exercícios práticos para aplicar o que foi aprendido.
 
 10. [Projetos Práticos e Desafios Finais](./modulo-10-projetos-desafios/README.md)  
-    Propondo desafios para consolidar o conhecimento.
+    Propondo desafios para consolidar o
