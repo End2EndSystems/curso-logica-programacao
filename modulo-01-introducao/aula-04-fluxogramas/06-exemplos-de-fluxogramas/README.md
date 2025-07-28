@@ -1,4 +1,4 @@
-# Aula 04: Exemplos de Fluxogramas
+# Aula 06: Exemplos de Fluxogramas
 
 Bem-vindo à aula de exemplos de fluxogramas! Aqui você vai ver como fluxogramas podem ajudar a organizar ideias, resolver problemas e até criar programas. Vamos explorar 15 exemplos, cada um com explicação e fluxograma desenhado com Mermaid. Pronto para mergulhar?
 
