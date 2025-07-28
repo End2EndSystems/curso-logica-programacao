@@ -57,3 +57,5 @@ Ele ajuda a criar regras mais precisas e evitar confusões.
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você entendeu sobre o operador "somente se" (bicondicional). Dê exemplos do seu dia a dia ou crie uma situação para praticar!
+
+| [⬅️ Operador Se...Então](../se-e-somente-se/README.md) | Navegação | [Voltar ao Módulo 🏠](../README.md) |

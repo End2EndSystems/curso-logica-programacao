@@ -63,3 +63,5 @@ Se quiser se aprofundar, veja a pasta [`../and-or`](../and-or/README.md) para en
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você entendeu sobre o operador NOT. Dê exemplos do seu dia a dia ou crie situações engraçadas para fixar o conceito!
+
+| [⬅️ Operador OR](../or/README.md) | Navegação | [Próximo Operador ➡️](../se-e-somente-se/README.md) |

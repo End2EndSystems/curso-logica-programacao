@@ -53,3 +53,5 @@ Veja como a lógica se aplica!
 ## O que entendi?
 
 > (Agora é com você! Escreva aqui, com suas palavras, o que você entendeu sobre o operador “se... então” e como ele funciona.)
+
+| [⬅️ Operador NOT](../not/README.md) | Navegação | [Próximo Operador ➡️](../somente-se/README.md) |

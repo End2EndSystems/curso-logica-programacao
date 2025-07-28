@@ -76,3 +76,5 @@ Crie um pequeno programa que verifica se uma pessoa pode assistir a um filme:
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você entendeu sobre o operador OR (`||`). Dê exemplos do seu dia a dia!
+
+| [⬅️ Operador AND](../and/README.md) | Navegação | [Próximo Operador ➡️](../not/README.md) |

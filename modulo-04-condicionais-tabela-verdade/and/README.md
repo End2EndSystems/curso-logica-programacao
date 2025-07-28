@@ -76,3 +76,5 @@ Se quiser se aprofundar, confira a pasta [`../or/`](../or/README.md) para aprend
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você entendeu sobre o operador AND (`&&`). Dê exemplos do seu cotidiano ou crie situações imaginárias para fixar o conceito!
+
+| [⬅️ Voltar ao Módulo](../README.md) | Navegação | [Próximo Operador ➡️](../or/README.md) |
