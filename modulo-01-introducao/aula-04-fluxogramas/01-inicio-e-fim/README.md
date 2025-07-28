@@ -2,6 +2,8 @@
 
 Bem-vindo à quarta aula do nosso curso de lógica de programação! Hoje vamos aprender sobre fluxogramas, focando nos símbolos de **início** e **fim**. Eles são essenciais para organizar e visualizar o funcionamento de qualquer programa.
 
+> **Início e fim** de um fluxograma são representados por um símbolo oval. Eles mostram onde o algoritmo começa e termina.
+
 ## O que é um Fluxograma?
 
 Um fluxograma é um desenho que mostra, passo a passo, como um programa funciona. Ele usa símbolos para representar ações, decisões e o caminho que o programa segue. É como um mapa para não se perder na hora de programar!
@@ -38,3 +40,5 @@ Tente criar um fluxograma para uma tarefa simples, como escovar os dentes. Pense
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você aprendeu sobre fluxogramas, início e fim. Como você acha que isso pode te ajudar a programar melhor?
+
+| [⬅️ Voltar à Aula](../README.md) | Navegação | [Próxima Parte ➡️](../02-acoes-e-processos/README.md) |

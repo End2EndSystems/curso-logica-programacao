@@ -17,6 +17,8 @@ Não seria legal se pudesse apertar um botão e tudo acontecesse automaticamente
 É isso que as funções fazem no código: elas agrupam comandos que podem ser executados sempre que você quiser, sem precisar reescrever tudo de novo.
 
 > **Função** é um bloco de código reutilizável
+> **Parâmetro** é uma informação que você passa para a função usar.  
+> **Retorno** é o resultado que a função entrega depois de executar.
 
 ### Exemplo simples em JavaScript
 

@@ -4,6 +4,8 @@
 
 Sabe quando você precisa repetir uma tarefa várias vezes, tipo jogar videogame até passar de fase ou assistir a mesma série de novo? Na programação, isso também acontece! Os **laços de repetição** servem para automatizar essas repetições, economizando tempo e evitando erros.
 
+> **Laço de repetição** é uma estrutura que permite repetir um conjunto de ações várias vezes, até que uma condição seja satisfeita.
+
 ## Por que usar laços de repetição?
 
 Imagine que você precisa imprimir os números de 1 a 100 na tela. Fazer isso manualmente seria chato e demorado. Com um laço de repetição, você escreve poucas linhas e o computador faz o trabalho pesado pra você!
@@ -56,3 +58,5 @@ Se quiser entender melhor cada tipo de laço, confira os links abaixo:
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você aprendeu sobre laços de repetição. Como você acha que pode usar isso no seu dia a dia ou em projetos de programação?
+
+| [⬅️ Parte Anterior](../04-conectores-e-fluxo/README.md) | Navegação | [Próxima Parte ➡️](../06-exemplos-de-fluxogramas/README.md) |

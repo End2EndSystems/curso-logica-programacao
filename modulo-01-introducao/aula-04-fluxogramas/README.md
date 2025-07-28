@@ -2,6 +2,12 @@
 
 Bem-vindo à quarta aula do nosso curso de lógica de programação! Hoje vamos mergulhar em um assunto super importante: **fluxogramas**. Eles são como mapas que mostram o caminho que o nosso programa vai seguir. Se você já se perdeu tentando entender como um código funciona, um fluxograma pode ser seu melhor amigo!
 
+> **Algoritmo** é uma sequência de passos para resolver um problema ou realizar uma tarefa.
+
+> **Sequência**: executar ações uma após a outra, na ordem em que aparecem.  
+> **Decisão**: escolher entre dois ou mais caminhos, dependendo de uma condição.  
+> **Repetição**: repetir uma ação várias vezes, enquanto uma condição for verdadeira.
+
 ## O que é um Fluxograma?
 
 Um fluxograma é uma representação visual dos passos que um programa executa. Ele usa símbolos para mostrar decisões, ações e o fluxo de informações. Com fluxogramas, fica muito mais fácil planejar e entender programas antes mesmo de começar a escrever código!
@@ -60,3 +66,7 @@ flowchart TD
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você aprendeu sobre fluxogramas. O que achou mais interessante? Teve alguma dúvida? Como você acha que pode usar fluxogramas para te ajudar nos estudos ou em outros projetos?
+
+---
+
+| [⬅️ Aula Anterior](../aula-03-historia-programacao/README.md) | Navegação | [Voltar ao Módulo 🏠](../README.md) |

@@ -8,6 +8,9 @@ Bem-vindo ao quinto módulo do nosso curso de lógica de programação! Aqui, va
 
 Laços de repetição (ou loops) são estruturas que permitem executar um bloco de código várias vezes, de acordo com uma condição. Eles são essenciais para resolver problemas que envolvem repetição, como percorrer listas, contar números ou pedir informações ao usuário até que ele acerte uma resposta.
 
+> **Laço** (ou **loop**) é uma estrutura que repete comandos várias vezes.  
+> Cada repetição é chamada de **iteração**.
+
 ---
 
 ## Tipos de Laços

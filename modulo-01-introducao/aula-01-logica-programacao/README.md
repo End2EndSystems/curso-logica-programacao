@@ -29,3 +29,7 @@ Prepare-se para aprender de um jeito divertido, com exemplos práticos e desafio
 ## O que entendi?
 
 > Aqui você deve reescrever o que entendeu sobre a aula com as suas palavras.
+
+---
+
+| [⬅️ Voltar ao Módulo](../README.md) | Navegação | [Próxima Aula ➡️](../aula-02-pensamento-computacional/README.md) |

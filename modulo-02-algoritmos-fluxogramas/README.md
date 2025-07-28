@@ -37,6 +37,8 @@ Um **fluxograma** é uma representação visual de um algoritmo. Ele usa símbol
 
 ### Principais símbolos de um fluxograma
 
+> **Símbolos de fluxograma** são desenhos padronizados que representam ações, decisões ou início/fim em um processo. Por exemplo, o retângulo indica uma ação e o losango indica uma decisão.
+
 | Símbolo         | Significado         |
 |-----------------|--------------------|
 | ⬛ Retângulo    | Ação ou processo   |

@@ -37,3 +37,7 @@ Saber programar é como ter uma chave mágica: você pode criar jogos, aplicativ
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você aprendeu sobre a história da programação. O que mais te chamou atenção? Qual personagem ou invenção você achou mais legal?
+
+---
+
+| [⬅️ Aula Anterior](../aula-02-pensamento-computacional/README.md) | Navegação | [Próxima Aula ➡️](../aula-04-fluxogramas/README.md) |

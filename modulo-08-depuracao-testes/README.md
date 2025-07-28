@@ -27,6 +27,9 @@ Testar é garantir que seu código faz o que deveria fazer. Existem vários tipo
 - **Testes manuais**: Você mesmo executa o programa e verifica se tudo está certo.
 - **Testes automatizados**: Você escreve códigos que testam outros códigos! Assim, sempre que mudar algo, pode rodar os testes e ver se quebrou alguma coisa.
 
+> **Depuração** é o processo de encontrar e corrigir erros (bugs) no código.  
+> **Teste** é uma forma de verificar se o código está funcionando como esperado.
+
 ---
 
 ## Como depurar na prática?

@@ -25,16 +25,22 @@ Problemas lógicos são desafios que exigem raciocínio, análise e criatividade
 
 ### 1. Sequências Lógicas
 
+> **Sequência lógica** é uma ordem de números, figuras ou palavras que segue uma regra. O desafio é descobrir qual é essa regra para encontrar o próximo elemento.
+
 Exemplo:  
 Qual é o próximo número da sequência?  
 2, 4, 8, 16, ___
 
 ### 2. Problemas de Verdadeiro ou Falso
 
+> **Problemas de verdadeiro ou falso** apresentam afirmações e você precisa decidir se cada uma é verdadeira ou falsa, usando lógica.
+
 Exemplo:  
 Se João é mais velho que Maria, e Maria é mais velha que Pedro, quem é o mais novo?
 
 ### 3. Desafios de Raciocínio
+
+> **Desafios de raciocínio** são enigmas que exigem pensar em diferentes possibilidades e analisar pistas para chegar à resposta.
 
 Exemplo:  
 Três amigos estão sentados em uma fila. Ana não está na ponta. João está à esquerda de Ana. Quem está na ponta direita?

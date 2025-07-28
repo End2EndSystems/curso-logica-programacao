@@ -8,6 +8,9 @@ No mundo da programação, usamos **condicionais** para ensinar o computador a t
 
 E para entender como essas decisões funcionam, precisamos conhecer a **tabela verdade**.
 
+> **Condicional** é uma estrutura que permite tomar decisões no código, escolhendo caminhos diferentes conforme uma condição seja verdadeira ou falsa.  
+> **Tabela verdade** mostra todos os resultados possíveis de uma expressão lógica, ajudando a entender como funcionam os operadores.
+
 ## O que são Condicionais?
 
 Condicionais são comandos que dizem ao computador: "Faça isso SE tal coisa acontecer". O mais comum é o famoso `if` (se), mas também temos `else` (senão) e `elif` (senão se).

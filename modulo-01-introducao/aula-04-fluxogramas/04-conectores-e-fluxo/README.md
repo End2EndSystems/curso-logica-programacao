@@ -2,6 +2,9 @@
 
 Bem-vindo à quarta aula do nosso curso de lógica de programação! Hoje vamos explorar como os conectores ajudam a organizar e direcionar o fluxo dos nossos algoritmos, especialmente em fluxogramas. Se você já achou os fluxogramas legais, prepare-se para deixá-los ainda mais profissionais e claros!
 
+> **Conectores** são círculos usados para ligar partes diferentes do fluxograma.  
+> **Setas** mostram o caminho que o fluxo segue entre as etapas.
+
 ---
 
 ## O que são conectores?
@@ -60,3 +63,5 @@ Desenhe um fluxograma simples de "Estudo para prova" usando pelo menos um conect
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você entendeu sobre conectores e fluxo em fluxogramas. Como você acha que pode usar isso para organizar melhor suas ideias e tarefas?
+
+| [⬅️ Parte Anterior](../03-decisoes/README.md) | Navegação | [Próxima Parte ➡️](../05-lacos-de-repeticao/README.md) |

@@ -2,6 +2,8 @@
 
 Bem-vindo à quarta aula do nosso curso de lógica de programação! Hoje vamos mergulhar nos fluxogramas, focando nas **ações** e **processos**. Se você já viu os símbolos básicos, agora é hora de entender como eles ajudam a organizar ideias e criar programas mais eficientes.
 
+> **Ação ou processo** é representado por um retângulo e indica uma tarefa a ser executada no algoritmo.
+
 ---
 
 ## O que são Ações e Processos?
@@ -52,3 +54,5 @@ Se quiser entender melhor como as **ações** se diferenciam das **decisões** (
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você aprendeu sobre ações e processos em fluxogramas. Dê exemplos, faça perguntas ou compartilhe dúvidas!
+
+| [⬅️ Parte Anterior](../01-inicio-e-fim/README.md) | Navegação | [Próxima Parte ➡️](../03-decisoes/README.md) |

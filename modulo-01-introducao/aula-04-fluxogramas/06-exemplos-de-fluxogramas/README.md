@@ -2,6 +2,8 @@
 
 Bem-vindo à aula de exemplos de fluxogramas! Aqui você vai ver como fluxogramas podem ajudar a organizar ideias, resolver problemas e até criar programas. Vamos explorar 15 exemplos, cada um com explicação e fluxograma desenhado com Mermaid. Pronto para mergulhar?
 
+> Aqui você encontra exemplos completos de fluxogramas, integrando todos os símbolos e conceitos aprendidos até aqui.
+
 ---
 
 ## Como visualizar os fluxogramas no Mermaid Live Editor
@@ -396,3 +398,5 @@ Em todos os exemplos, o laço "para" (for) começa com a criação do sentinela 
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você aprendeu sobre fluxogramas e como eles podem ajudar no seu dia a dia. Dê exemplos próprios e compartilhe suas ideias!
+
+| [⬅️ Parte Anterior](../05-lacos-de-repeticao/README.md) | Navegação | [Voltar à Aula 🏠](../README.md) |

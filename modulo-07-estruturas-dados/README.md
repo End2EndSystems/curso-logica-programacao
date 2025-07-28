@@ -34,6 +34,11 @@ Usando as estruturas certas, conseguimos:
 
 Vamos conhecer as principais estruturas de dados que você vai usar bastante:
 
+> **Vetor/Array** é uma sequência de elementos em uma ordem.  
+> **Lista** é parecida com um vetor, mas pode crescer ou diminuir de tamanho.  
+> **Pilha** é uma estrutura onde o último a entrar é o primeiro a sair (LIFO).  
+> **Fila** é uma estrutura onde o primeiro a entrar é o primeiro a sair (FIFO).
+
 ### 1. Vetores (Arrays)
 
 São como filas de cinema: cada pessoa (dado) tem seu lugar (índice).

@@ -2,6 +2,8 @@
 
 Bem-vindo à quarta aula do nosso curso de lógica de programação! Hoje vamos falar sobre **decisões**: como fazer o computador escolher caminhos diferentes dependendo das situações. Isso é essencial para criar programas inteligentes e interativos.
 
+> **Decisão** é representada por um losango e indica um ponto onde o caminho do algoritmo pode mudar, dependendo de uma condição (sim/não).
+
 ## O que são decisões?
 
 Decisões são instruções que dizem ao computador: "Se acontecer isso, faça aquilo. Se não, faça outra coisa." É como escolher entre ir ao cinema ou jogar videogame dependendo do tempo.
@@ -63,3 +65,5 @@ Crie um fluxograma para decidir o que fazer dependendo da hora do dia: manhã, t
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você entendeu sobre decisões em programação. Como você usaria isso para resolver problemas do dia a dia?
+
+| [⬅️ Parte Anterior](../02-acoes-e-processos/README.md) | Navegação | [Próxima Parte ➡️](../04-conectores-e-fluxo/README.md) |

@@ -25,6 +25,7 @@ Você aprende a analisar situações, encontrar padrões e criar soluções inte
     Exemplo: ao estudar para uma prova, você foca nos tópicos que mais caem.
 4. **Algoritmos:** Criar um passo a passo para resolver o problema.  
     Exemplo: receita de bolo, tutorial de vídeo game, rotina para acordar cedo.
+    > **Algoritmo** é uma sequência de passos para resolver um problema ou realizar uma tarefa.
 
 ## Exercício prático
 
@@ -40,3 +41,7 @@ Compartilhe com a turma como você resolveu!
 ## O que entendi?
 
 > Aqui você deve reescrever o que entendeu sobre a aula com as suas palavras.
+
+---
+
+| [⬅️ Aula Anterior](../aula-01-logica-programacao/README.md) | Navegação | [Próxima Aula ➡️](../aula-03-historia-programacao/README.md) |

@@ -8,6 +8,10 @@ Bem-vindo(a) a mais uma aula! Hoje vamos falar sobre **tipos de dados** — um c
 
 Quando você cria uma variável, precisa dizer (ou o computador precisa entender) **que tipo de informação** ela vai guardar. Pode ser um número, um texto, verdadeiro ou falso, e por aí vai. Cada tipo de dado tem suas próprias regras e usos.
 
+> **String** é um texto, como "Olá, mundo!"  
+> **Número** pode ser inteiro (ex: 5) ou decimal (ex: 3.14)  
+> **Booleano** só pode ser verdadeiro (`true`) ou falso (`false`)
+
 ---
 
 ## Principais Tipos de Dados
