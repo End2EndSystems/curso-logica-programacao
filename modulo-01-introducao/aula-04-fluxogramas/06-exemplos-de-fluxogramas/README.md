@@ -217,7 +217,7 @@ flowchart TD
     flowchart TD
         iniciar_contador[Iniciar contador em 1] --> verificar_contador{contador <= 5?}
         verificar_contador -- Sim --> mostrar_contador[Mostrar contador]
-        mostrar_contador --> incrementar_contador[Incrementar contador (+1)]
+        mostrar_contador --> incrementar_contador[Incrementar contador com +1]
         incrementar_contador --> verificar_contador
         verificar_contador -- Não --> fim_contagem[Fim]
     ```
