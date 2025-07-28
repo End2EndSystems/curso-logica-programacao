@@ -68,3 +68,5 @@ Se quiser se aprofundar, veja a pasta `simbolos-fluxogramas/README.md` para exem
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você aprendeu sobre fluxogramas. O que achou mais fácil? O que ficou confuso? Como você usaria fluxogramas no seu dia a dia?
+
+| [⬅️ Parte Anterior](../README.md) | Navegação | [Próxima Parte ➡️](./simbolos-fluxogramas/README.md) |

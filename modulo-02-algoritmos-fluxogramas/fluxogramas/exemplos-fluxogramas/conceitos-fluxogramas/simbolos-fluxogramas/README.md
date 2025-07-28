@@ -78,3 +78,5 @@ Tente desenhar um fluxograma simples para: "Acordar, decidir se vai para a escol
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você entendeu sobre os símbolos de fluxogramas e por que eles são importantes. Se quiser, desenhe um fluxograma de um processo do seu dia a dia!
+
+| [⬅️ Parte Anterior](../README.md) | Navegação | [Voltar à Aula 🏠](../../../README.md) |

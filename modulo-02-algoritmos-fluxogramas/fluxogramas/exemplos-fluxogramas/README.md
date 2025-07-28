@@ -91,3 +91,5 @@ Se quiser se aprofundar, confira a pasta [`conceitos-fluxogramas`](../conceitos-
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você aprendeu sobre fluxogramas. O que achou mais fácil? O que achou mais difícil? Como acha que pode usar fluxogramas no seu dia a dia?
+
+| [⬅️ Parte Anterior](../README.md) | Navegação | [Próxima Parte ➡️](./conceitos-fluxogramas/README.md) |

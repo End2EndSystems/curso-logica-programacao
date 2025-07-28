@@ -29,6 +29,13 @@ Um **fluxograma** é um tipo de diagrama que mostra, passo a passo, como resolve
 
 ---
 
+> **Ação**: Representa uma tarefa a ser executada, geralmente com um retângulo.
+> **Decisão**: Representa uma escolha entre caminhos, geralmente com um losango.
+> **Laço**: Indica repetição de etapas, geralmente com setas que retornam a uma etapa anterior.
+> **Conector**: Círculo usado para ligar partes diferentes do fluxograma.
+
+---
+
 ## Exemplo Prático
 
 Vamos criar um fluxograma para decidir se você pode sair para brincar:
@@ -68,3 +75,5 @@ Se quiser se aprofundar, veja a pasta [`exemplos-fluxogramas`](./exemplos-fluxog
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você entendeu sobre fluxogramas. Como eles podem te ajudar? Você acha que consegue criar um sozinho? O que ficou mais fácil ou difícil?
+
+| [⬅️ Parte Anterior](../README.md) | Navegação | [Próxima Parte ➡️](./exemplos-fluxogramas/README.md) |
