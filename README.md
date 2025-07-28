@@ -79,4 +79,4 @@ Assim, você terá um histórico do seu progresso e poderá compartilhar seu apr
    Exercícios práticos para aplicar o que foi aprendido.
 
 10. [Projetos Práticos e Desafios Finais](./modulo-10-projetos-desafios/README.md)  
-    Propondo desafios para consolidar o
+    Propondo desafios para consolidar o conhecimento.

@@ -81,3 +81,7 @@ Se quiser se aprofundar, confira as pastas abaixo para exemplos práticos e desa
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você aprendeu sobre estruturas de dados. Como você acha que pode usar isso no seu dia a dia de programação?
+
+|   | Navegação |   |
+|:-:|:----------|:-:|
+| [⬅️ Módulo Anterior](../modulo-06-funcoes-modularizacao/README.md) |  | [Próximo Módulo ➡️](../modulo-08-depuracao-testes/README.md) |

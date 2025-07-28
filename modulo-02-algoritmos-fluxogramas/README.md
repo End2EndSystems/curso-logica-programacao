@@ -92,3 +92,9 @@ Se quiser se aprofundar em fluxogramas, confira a pasta [`fluxogramas/`](./fluxo
 ---
 
 Continue praticando! Quanto mais você criar algoritmos e fluxogramas, mais fácil vai ficar pensar como um programador.
+
+---
+
+|   | Navegação |   |
+|:-:|:----------|:-:|
+| [⬅️ Módulo Anterior](../modulo-01-introducao/README.md) |  | [Próximo Módulo ➡️](../modulo-03-variaveis-tipos/README.md) |

@@ -27,3 +27,7 @@ Não é preciso saber nada de programação — só curiosidade e vontade de apr
 
 - [Quiz de Revisão](./quiz/README.md)
 - [Exercícios Propostos](./exercicios/README.md)
+
+|   | Navegação |   |
+|:-:|:----------|:-:|
+|   |  | [Próximo Módulo ➡️](../modulo-02-algoritmos-fluxogramas/README.md) |

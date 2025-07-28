@@ -81,3 +81,7 @@ Se quiser se aprofundar, confira a pasta [`tipos-dados`](./tipos-dados/README.md
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você aprendeu sobre variáveis e tipos de dados. Use exemplos do seu dia a dia para explicar!
+
+|   | Navegação |   |
+|:-:|:----------|:-:|
+| [⬅️ Módulo Anterior](../modulo-02-algoritmos-fluxogramas/README.md) |  | [Próximo Módulo ➡️](../modulo-04-condicionais-tabela-verdade/README.md) |

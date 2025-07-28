@@ -81,3 +81,7 @@ Se quiser se aprofundar, confira a pasta [`exemplos-loops`](./exemplos-loops/REA
 > Escreva aqui, com suas próprias palavras, o que você entendeu sobre laços de repetição. Como eles podem te ajudar a resolver problemas? Qual tipo de laço você achou mais interessante?  
 >
 > _Exemplo: "Entendi que laços servem para repetir comandos sem precisar copiar e colar várias vezes. Achei o `for` legal porque é simples de usar para listas."_
+
+|   | Navegação |   |
+|:-:|:----------|:-:|
+| [⬅️ Módulo Anterior](../modulo-04-condicionais-tabela-verdade/README.md) |  | [Próximo Módulo ➡️](../modulo-06-funcoes-modularizacao/README.md) |

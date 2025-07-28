@@ -97,3 +97,7 @@ Nos próximos tópicos, você encontrará exemplos práticos e exercícios para 
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você entendeu sobre condicionais e tabela verdade. Dê exemplos do seu dia a dia ou crie situações engraçadas para fixar o conteúdo!
+
+|   | Navegação |   |
+|:-:|:----------|:-:|
+| [⬅️ Módulo Anterior](../modulo-03-variaveis-tipos/README.md) |  | [Próximo Módulo ➡️](../modulo-05-lacos-repeticao/README.md) |

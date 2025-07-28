@@ -88,3 +88,7 @@ Assim, se precisar de uma função matemática, você sabe exatamente onde procu
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você aprendeu sobre funções e modularização. Como você acha que isso pode te ajudar a programar melhor? Tem alguma dúvida? Anote aqui para perguntar na próxima aula!
+
+|   | Navegação |   |
+|:-:|:----------|:-:|
+| [⬅️ Módulo Anterior](../modulo-05-lacos-repeticao/README.md) |  | [Próximo Módulo ➡️](../modulo-07-estruturas-dados/README.md) |
