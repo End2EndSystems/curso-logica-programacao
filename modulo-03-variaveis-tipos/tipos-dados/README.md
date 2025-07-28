@@ -78,3 +78,5 @@ maior_de_idade = True  # bool
 
 > Escreva aqui, com suas palavras, o que você entendeu sobre tipos de dados.  
 > Dê exemplos do seu dia a dia ou crie suas próprias variáveis!
+
+| [⬅️ Voltar ao Módulo](../README.md) | Navegação | [Números ➡️](./numeros/README.md) |

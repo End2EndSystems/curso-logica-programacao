@@ -84,4 +84,4 @@ Se quiser se aprofundar, confira a pasta [`tipos-dados`](./tipos-dados/README.md
 
 |   | Navegação |   |
 |:-:|:----------|:-:|
-| [⬅️ Módulo Anterior](../modulo-02-algoritmos-fluxogramas/README.md) |  | [Próximo Módulo ➡️](../modulo-04-condicionais-tabela-verdade/README.md) |
+| [⬅️ Módulo Anterior](../modulo-02-algoritmos-fluxogramas/README.md) | [Tipos de Dados](./tipos-dados/README.md) | [Próximo Módulo ➡️](../modulo-04-condicionais-tabela-verdade/README.md) |

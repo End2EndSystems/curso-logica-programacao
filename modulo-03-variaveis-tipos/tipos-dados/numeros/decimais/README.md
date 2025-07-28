@@ -79,3 +79,5 @@ Tente criar variáveis com números decimais e fazer operações como soma, subt
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você entendeu sobre números decimais. Dê exemplos do seu dia a dia onde eles aparecem e como você usaria isso em um programa.
+
+| [⬅️ Números](../README.md) | Navegação | [Voltar a Tipos de Dados 🏠](../../README.md) |

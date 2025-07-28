@@ -63,3 +63,5 @@ Tente fazer no seu editor ou IDE favorita!
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você entendeu sobre números em programação. O que achou mais interessante? Teve alguma dúvida? Use este espaço para anotar!
+
+| [⬅️ Tipos de Dados](../README.md) | Navegação | [Decimais ➡️](./decimais/README.md) |

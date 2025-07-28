@@ -76,3 +76,5 @@ Se quiser se aprofundar, veja a pasta [`operadores-logicos`](../operadores-logic
 ## O que entendi?
 
 > Escreva aqui, com suas palavras, o que você entendeu sobre booleanos, para que servem e como usá-los no seu código!
+
+| [⬅️ Tipos de Dados](../README.md) | Navegação | [Operadores Lógicos ➡️](./operadores-logicos/README.md) |

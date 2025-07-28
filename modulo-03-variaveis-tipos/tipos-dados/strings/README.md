@@ -109,3 +109,5 @@ print(mensagem.strip().upper())
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você aprendeu sobre strings. Dê exemplos, explique para você mesmo como se fosse ensinar alguém!
+
+| [⬅️ Tipos de Dados](../README.md) | Navegação | [Voltar a Tipos de Dados 🏠](../README.md) |

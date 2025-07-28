@@ -80,3 +80,5 @@ if (!temChuva) {
 ## O que entendi?
 
 > Escreva aqui, com suas próprias palavras, o que você entendeu sobre operadores lógicos. Dê exemplos do seu dia a dia!
+
+| [⬅️ Booleanos](../README.md) | Navegação | [Voltar a Tipos de Dados 🏠](../../README.md) |
