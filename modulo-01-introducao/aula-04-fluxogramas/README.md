@@ -36,9 +36,9 @@ Vamos dividir o estudo dos fluxogramas em partes para facilitar o entendimento. 
 
 [Veja o README.md desta pasta para aprender como utilizar laços de repetição e mostrar o fluxo.](./05-lacos-de-repeticao/README.md)
 
-### 05 - Exemplos de Fluxogramas
+### 06 - Exemplos de Fluxogramas
 
-[Confira a pasta de exemplos para visualizar fluxogramas completos e variados.](./05-exemplos-de-fluxogramas/README.md)
+[Confira a pasta de exemplos para visualizar fluxogramas completos e variados.](./06-exemplos-de-fluxogramas/README.md)
 
 ---
 
